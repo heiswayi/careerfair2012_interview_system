@@ -1,0 +1,40 @@
+body {margin:0; padding:0; line-height: 1.4em; word-spacing:1px; letter-spacing:0.2px; font: 13px Arial, Helvetica,"Lucida Grande", serif; color: #000;}
+div#print {
+margin:10px;
+}
+table.people {
+margin:20px 0 0 0;
+padding-bottom:20px;
+border-bottom:1px solid #000;
+width:100%;
+}
+td.label {
+width:200px;
+font-weight:bold;
+vertical-align:top;
+}
+a {
+text-decoration:none;
+color:#3366cc;
+}
+a:hover {
+text-decoration:underline;
+}
+table.checklist {
+width:100%;
+padding:0;
+}
+table.checklist th, table.checklist td {
+padding:5px;
+margin:0;
+}
+table.checklist th {
+border:1px solid #ccc;
+}
+table.checklist td {
+border-bottom:1px solid #ccc;
+}
+table.checklist th.oncheck, table.checklist td.oncheck {
+border:1px solid #ccc;
+width:20px;
+}
