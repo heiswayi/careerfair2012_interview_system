@@ -1,4 +1,6 @@
-Backup of Career Fair 2012 USM Engineering Campus Interview System application source code (2012)
+# Career Fair 2012 USM Engineering Campus Interview System
+
+This repo contains backup source code of Interview System webapp developed for Career Fair 2012 USM Engineering Campus.
 
 Screenshots:
 
@@ -15,3 +17,5 @@ Screenshots:
 ![screenshot6](screenshot6.PNG)
 
 ![screenshot7](screenshot7.PNG)
+
+© 2012 Heiswayi Nrird
